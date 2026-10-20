@@ -1,0 +1,6 @@
+history/
+*.log
+__pycache__/
+.venv/
+models/
+prompt.txt
